@@ -19,7 +19,7 @@ The system performs four main tasks:
 
 ---
 
-## 🛠 Tools & Technologies Used
+## Tools & Technologies Used
 
 | Skill / Tool              | Usage                                                                 |
 |---------------------------|-----------------------------------------------------------------------|
